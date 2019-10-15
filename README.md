@@ -7,15 +7,15 @@ If you want to contribute to this list, send a pull request, send email to dumen
 
 ## Table of Contents
 
-* [Review and General Papers](https://github.com/mndu/awesome-fairness-machine-learning#review-and-general-papers)
-* [Measurements of Fairness](https://github.com/mndu/awesome-fairness-machine-learning#measurements-of-fairness)
+* [Review and General Papers](https://github.com/datamllab/awesome-fairness-machine-learning#review-and-general-papers)
+* [Measurements of Fairness](https://github.com/datamllab/awesome-fairness-machine-learning#measurements-of-fairness)
 * Fairness of Machine Learning Models
-  * [Prediction Outcome Discrimination](https://github.com/mndu/awesome-fairness-machine-learning#prediction-outcome-discrimination)
-  * [Predictive Accuracy Disparity](https://github.com/mndu/awesome-fairness-machine-learning#predictive-accuracy-disparity)
-* [Fairness of Representations](https://github.com/mndu/awesome-fairness-machine-learning#fairness-of-representations)
-* [Fairness Packages and Frameworks](https://github.com/mndu/awesome-fairness-machine-learning#fairness-packages-and-frameworks)
-* [Conferences](https://github.com/mndu/awesome-fairness-machine-learning#conferences)
-* [Other Interpretability Resources and Lists](https://github.com/mndu/awesome-fairness-machine-learning#other-interpretability-resources-and-lists)
+  * [Prediction Outcome Discrimination](https://github.com/datamllab/awesome-fairness-machine-learning#prediction-outcome-discrimination)
+  * [Predictive Accuracy Disparity](https://github.com/datamllab/awesome-fairness-machine-learning#predictive-accuracy-disparity)
+* [Fairness of Representations](https://github.com/datamllab/awesome-fairness-machine-learning#fairness-of-representations)
+* [Fairness Packages and Frameworks](https://github.com/datamllab/awesome-fairness-machine-learning#fairness-packages-and-frameworks)
+* [Conferences](https://github.com/datamllab/awesome-fairness-machine-learning#conferences)
+* [Other Interpretability Resources and Lists](https://github.com/datamllab/awesome-fairness-machine-learning#other-interpretability-resources-and-lists)
   
 
 ## Review and General Papers
