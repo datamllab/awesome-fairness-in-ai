@@ -101,7 +101,7 @@ If you want to contribute to this list, send a pull request, send email to dumen
 * [AIES: AAAI/ACM Conference on AI, Ethics, and Society](http://www.aies-conference.com/2020/)
 
 
-## Other Interpretability Resources and Lists
+## Other Fairness Relevant Interpretability Resources
 
 * [Awesome machine learning interpretability resources](https://github.com/jphall663/awesome-machine-learning-interpretability)
 * [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490.pdf)
