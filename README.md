@@ -2,7 +2,7 @@
 
 A curated, but probably biased and incomplete, list of awesome Fairness Machine Learning resources.
 
-If you want to contribute to this list, send a pull request, send email to dumengnan@tamu.edu, or contact me [@DuMNCH](https://twitter.com/DuMNCH).
+If you want to contribute to this list, feel free to pull a request. Also you can contact [Mengnan Du](http://people.tamu.edu/~dumengnan/) of [Data Lab](http://faculty.cs.tamu.edu/xiahu/) through email: dumengnan@tamu.edu, or Twitter [@DuMNCH](https://twitter.com/DuMNCH).
 
 
 ## Table of Contents
