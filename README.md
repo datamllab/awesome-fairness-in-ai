@@ -7,7 +7,7 @@ If you want to contribute to this list, feel free to pull a request. Also you ca
 
 ## What is Fairness in AI?
 
-Deep learning is increasingly being used in high-stake decision making applications that affect individual lives. However, deep learning models might exhibit algorithmic discrimination behaviors with respect to protected groups, potentially posing negative impacts on individuals and society.
+AI algorithms are increasingly being used in high-stake decision making applications that affect individual lives. However, AI models might exhibit algorithmic discrimination behaviors with respect to protected groups, potentially posing negative impacts on individuals and society.
 
 Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems, that ensure the benefits are broadly available across all segments of society. Specific topics include but are not limited to: theoretical understanding of algorithmic bias, defining measurements of fairness, detection of adverse biases, and developing mitigation strategies.
 
