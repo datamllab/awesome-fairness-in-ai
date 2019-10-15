@@ -15,7 +15,7 @@ If you want to contribute to this list, send a pull request, send email to dumen
 * [Fairness of Representations](https://github.com/datamllab/awesome-fairness-machine-learning#fairness-of-representations)
 * [Fairness Packages and Frameworks](https://github.com/datamllab/awesome-fairness-machine-learning#fairness-packages-and-frameworks)
 * [Conferences](https://github.com/datamllab/awesome-fairness-machine-learning#conferences)
-* [Other Interpretability Resources and Lists](https://github.com/datamllab/awesome-fairness-machine-learning#other-interpretability-resources-and-lists)
+* [Other Fairness Relevant Interpretability Resources](https://github.com/datamllab/awesome-fairness-machine-learning#other-fairness-relevant-interpretability-resources)
   
 
 ## Review and General Papers
