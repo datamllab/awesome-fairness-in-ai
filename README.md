@@ -23,6 +23,7 @@ If you want to contribute to this list, send a pull request, send email to dumen
 * [Fairness in Deep Learning: A Computational Perspective](https://arxiv.org/pdf/1908.08843.pdf)
 * [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning](https://arxiv.org/pdf/1808.00023.pdf)
 * [Fairness and machine learning](https://fairmlbook.org/)
+* [A Survey on Bias and Fairness in Machine Learning](https://arxiv.org/pdf/1908.09635.pdf)
 * [The Frontiers of Fairness in Machine Learning](https://arxiv.org/pdf/1810.08810.pdf)
 * [Ensuring fairness in machine learning to advance health equity](https://annals.org/aim/fullarticle/2717119)
 * [Mitigating Gender Bias in Natural Language Processing: Literature Review](https://www.aclweb.org/anthology/P19-1159.pdf)
