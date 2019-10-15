@@ -7,7 +7,7 @@ If you want to contribute to this list, feel free to pull a request. Also you ca
 
 ## What is Fairness in AI?
 
-AI algorithms are increasingly being used in high-stake decision making applications that affect individual lives. However, AI models might exhibit algorithmic discrimination behaviors with respect to protected groups, potentially posing negative impacts on individuals and society.
+AI algorithms are increasingly being used in high-stake decision making applications that affect individual lives. However, AI might exhibit algorithmic discrimination behaviors with respect to protected groups, potentially posing negative impacts on individuals and society.
 
 Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems, that ensure the benefits are broadly available across all segments of society. Specific topics include but are not limited to: theoretical understanding of algorithmic bias, defining measurements of fairness, detection of adverse biases, and developing mitigation strategies.
 
@@ -65,10 +65,12 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
   * [Mitigating Unwanted Biases with Adversarial Learning](https://arxiv.org/pdf/1801.07593.pdf)
   * [Adversarial Removal of Demographic Attributes from Text Data](https://arxiv.org/pdf/1808.06640.pdf)
 
-* [Turning a Blind Eye: Explicit Removal of Biases and Variation from Deep Neural Network Embeddings](https://arxiv.org/pdf/1809.02169.pdf)
-* [REPAIR: Removing Representation Bias by Dataset Resampling](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_REPAIR_Removing_Representation_Bias_by_Dataset_Resampling_CVPR_2019_paper.pdf)
-* [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](https://arxiv.org/pdf/1805.04508.pdf)
-* [Reducing Gender Bias in Abusive Language Detection](https://arxiv.org/pdf/1808.07231.pdf)
+* Other Detection and Mitigation Papers
+  * [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](https://arxiv.org/pdf/1805.04508.pdf)
+  * [Reducing Gender Bias in Abusive Language Detection](https://arxiv.org/pdf/1808.07231.pdf)
+  * [Turning a Blind Eye: Explicit Removal of Biases and Variation from Deep Neural Network Embeddings](https://arxiv.org/pdf/1809.02169.pdf)
+  * [REPAIR: Removing Representation Bias by Dataset Resampling](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_REPAIR_Removing_Representation_Bias_by_Dataset_Resampling_CVPR_2019_paper.pdf)
+  
 
 
 ### Predictive Accuracy Disparity
