@@ -5,6 +5,13 @@ A curated, but probably biased and incomplete, list of awesome Fairness Machine 
 If you want to contribute to this list, feel free to pull a request. Also you can contact [Mengnan Du](http://people.tamu.edu/~dumengnan/) from the [Data Lab](http://faculty.cs.tamu.edu/xiahu/) at Texas A&M University through email: dumengnan@tamu.edu, or Twitter [@DuMNCH](https://twitter.com/DuMNCH).
 
 
+## What is Fairness in AI?
+
+Deep learning is increasingly being used in high-stake decision making applications that affect individual lives. However, deep learning models might exhibit algorithmic discrimination behaviors with respect to protected groups, potentially posing negative impacts on individuals and society.
+
+Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems, that ensure the benefits are broadly available across all segments of society. Specific topics include but are not limited to: theoretical understanding of algorithmic bias, defining measurements of fairness, detection of adverse biases, and developing mitigation strategies.
+
+
 ## Table of Contents
 
 * [Review and General Papers](https://github.com/datamllab/awesome-fairness-machine-learning#review-and-general-papers)
