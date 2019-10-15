@@ -2,7 +2,7 @@
 
 A curated, but probably biased and incomplete, list of awesome Fairness Machine Learning resources.
 
-If you want to contribute to this list, send a pull request, or contact me [@DuMNCH](https://twitter.com/DuMNCH).
+If you want to contribute to this list, send a pull request, send email to dumengnan@tamu.edu, or contact me [@DuMNCH](https://twitter.com/DuMNCH).
 
 
 ## Table of Contents
@@ -86,7 +86,7 @@ If you want to contribute to this list, send a pull request, or contact me [@DuM
 
 ## Fairness Packages and Frameworks
 
-* [AI Fairness 360](http://aif360.mybluemix.net)
+* [AI Fairness 360](https://github.com/IBM/AIF360)
 * [FairSight: Visual Analytics for Fairness in Decision Making](https://arxiv.org/pdf/1908.00176.pdf)
 
 
