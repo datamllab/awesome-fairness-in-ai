@@ -1,4 +1,4 @@
-# Awesome-*Fairness*-Machine-Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-*Fairness*-in-AI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated, but probably biased and incomplete, list of awesome Fairness Machine Learning resources.
 
@@ -48,6 +48,8 @@ If you want to contribute to this list, send a pull request, send email to dumen
   * [Women Also Snowboard: Overcoming Bias in Captioning Models](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lisa_Anne_Hendricks_Women_also_Snowboard_ECCV_2018_paper.pdf)
   * [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://arxiv.org/pdf/1707.09457.pdf)
   * [Feature-Wise Bias Amplification](https://arxiv.org/pdf/1812.08999.pdf)
+  * [ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases](https://arxiv.org/pdf/1711.11443.pdf)
+
 
 * Adversarial Learning to Mitigate Discrimination
   * [Data Decisions and Theoretical Implications when Adversarially Learning Fair Representations](https://arxiv.org/pdf/1707.00075.pdf)
