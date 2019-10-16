@@ -46,6 +46,7 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 * [Does mitigating ML's impact disparity require treatment disparity?](https://papers.nips.cc/paper/8035-does-mitigating-mls-impact-disparity-require-treatment-disparity.pdf)
 * [Putting Fairness Principles into Practice: Challenges, Metrics, and Improvements](https://arxiv.org/pdf/1901.04562.pdf)
 * [Beyond Parity: Fairness Objectives for Collaborative Filtering](https://arxiv.org/pdf/1705.08804.pdf)
+* [50 Years of Test (Un)fairness: Lessons for Machine Learning](https://arxiv.org/pdf/1811.10104.pdf)
 
 
 ## Fairness of Machine Learning Models
