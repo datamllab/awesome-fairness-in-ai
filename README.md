@@ -1,6 +1,6 @@
 # Awesome-Fairness-in-AI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated, but probably biased and incomplete, list of awesome Fairness Machine Learning resources.
+A curated, but probably biased and incomplete, list of awesome Fairness in AI resources.
 
 If you want to contribute to this list, feel free to pull a request. Also you can contact [Mengnan Du](http://people.tamu.edu/~dumengnan/) from the [Data Lab](http://faculty.cs.tamu.edu/xiahu/) at Texas A&M University through email: dumengnan@tamu.edu, or Twitter [@DuMNCH](https://twitter.com/DuMNCH).
 
