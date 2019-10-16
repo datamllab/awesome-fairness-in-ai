@@ -101,8 +101,9 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 ## Fairness Packages and Frameworks
 
 * [AI Fairness 360](https://github.com/IBM/AIF360)
+* [fairlearn: Fairness in machine learning mitigation algorithms](https://github.com/fairlearn/fairlearn)
 * [algofairness](https://github.com/algofairness)
-  * [Benchmarking of fairness aware machine learning algorithms](https://github.com/algofairness/fairness-comparison)
+  * [fairness: Benchmarking of fairness aware machine learning algorithms](https://github.com/algofairness/fairness-comparison)
 * [FairSight: Visual Analytics for Fairness in Decision Making](https://arxiv.org/pdf/1908.00176.pdf)
 
 
