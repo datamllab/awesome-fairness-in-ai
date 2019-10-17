@@ -14,15 +14,15 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 
 ## Table of Contents
 
-* [Review and General Papers](https://github.com/datamllab/awesome-fairness-machine-learning#review-and-general-papers)
-* [Measurements of Fairness](https://github.com/datamllab/awesome-fairness-machine-learning#measurements-of-fairness)
+* [Review and General Papers](#review-and-general-papers)
+* [Measurements of Fairness](#measurements-of-fairness)
 * Fairness of Machine Learning Models
-  * [Prediction Outcome Discrimination](https://github.com/datamllab/awesome-fairness-machine-learning#prediction-outcome-discrimination)
-  * [Predictive Accuracy Disparity](https://github.com/datamllab/awesome-fairness-machine-learning#predictive-accuracy-disparity)
-* [Fairness of Representations](https://github.com/datamllab/awesome-fairness-machine-learning#fairness-of-representations)
-* [Fairness Packages and Frameworks](https://github.com/datamllab/awesome-fairness-machine-learning#fairness-packages-and-frameworks)
-* [Conferences](https://github.com/datamllab/awesome-fairness-machine-learning#conferences)
-* [Other Fairness Relevant Interpretability Resources](https://github.com/datamllab/awesome-fairness-machine-learning#other-fairness-relevant-interpretability-resources)
+  * [Prediction Outcome Discrimination](#prediction-outcome-discrimination)
+  * [Predictive Accuracy Disparity](#predictive-accuracy-disparity)
+* [Fairness of Representations](#fairness-of-representations)
+* [Fairness Packages and Frameworks](#fairness-packages-and-frameworks)
+* [Conferences](#conferences)
+* [Other Fairness Relevant Interpretability Resources](#other-fairness-relevant-interpretability-resources)
   
 
 ## Review and General Papers
