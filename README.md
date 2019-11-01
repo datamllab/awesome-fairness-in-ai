@@ -72,6 +72,17 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
   * [Reducing Gender Bias in Abusive Language Detection](https://arxiv.org/pdf/1808.07231.pdf)
   * [Turning a Blind Eye: Explicit Removal of Biases and Variation from Deep Neural Network Embeddings](https://arxiv.org/pdf/1809.02169.pdf)
   * [REPAIR: Removing Representation Bias by Dataset Resampling](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_REPAIR_Removing_Representation_Bias_by_Dataset_Resampling_CVPR_2019_paper.pdf)
+  * [Fairness-aware Learning through Regularization Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6137441&tag=1)
+  * [Fairness Constraints: Mechanisms for Fair Classification](https://arxiv.org/pdf/1507.05259.pdf)
+  * [Penalizing Unfairness in Binary Classification](https://arxiv.org/pdf/1707.00044.pdf)
+  * [Fairness Constraints:A Flexible Approach for Fair Classification](http://www.jmlr.org/papers/volume20/18-262/18-262.pdf)
+  * [A General Framework for Fair Regression](https://arxiv.org/abs/1810.05041)
+  * [Fair Regression: Quantitative Definitions and Reduction-based Algorithms](http://proceedings.mlr.press/v97/agarwal19d/agarwal19d.pdf)
+
+
+
+  
+
   
 
 
