@@ -16,10 +16,17 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 
 * [Review and General Papers](#review-and-general-papers)
 * [Measurements of Fairness](#measurements-of-fairness)
-* Fairness of Machine Learning Models
-  * [Prediction Outcome Discrimination](#prediction-outcome-discrimination)
-  * [Predictive Accuracy Disparity](#predictive-accuracy-disparity)
-* [Fairness of Representations](#fairness-of-representations)
+* Demonstration of Bias Phemomenon in Various Applications
+  * [Bias in Machine Learning Models](#bias-in-machine-learning-models)
+  * [Bias in Representations](#bias-in-representations)
+* Mitigation of Unfairness 
+  * [Mitigation of Machine Learning Models](#mitigation-of-machine-learning-models)
+    * [Adversarial Learning](#adversarial-learning)
+    * [Calibration](#calibration)
+    * [Incorporating Priors into Feature Attribution](#incorporating-priors-into-feature-attribution)
+    * [Data Collection](#data-collection)
+    * [Other Mitigation Methods](#calibration)
+  * [Mitigation of Representations](#mitigation-of-representations)
 * [Fairness Packages and Frameworks](#fairness-packages-and-frameworks)
 * [Conferences](#conferences)
 * [Other Fairness Relevant Interpretability Resources](#other-fairness-relevant-interpretability-resources)
@@ -49,18 +56,28 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 * [50 Years of Test (Un)fairness: Lessons for Machine Learning](https://arxiv.org/pdf/1811.10104.pdf)
 
 
-## Fairness of Machine Learning Models
-
-### Prediction Outcome Discrimination
-
-* Bias Amplification Phenomenon
-  * [Women Also Snowboard: Overcoming Bias in Captioning Models](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lisa_Anne_Hendricks_Women_also_Snowboard_ECCV_2018_paper.pdf)
-  * [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://arxiv.org/pdf/1707.09457.pdf)
+## Demonstration of Bias Phemomenon in Various Applications
+* Bias in Machine Learning Models
+  * [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
+  * [Deep Learning for Face Recognition: Pride or Prejudiced?](https://arxiv.org/pdf/1904.01219.pdf)
+  * [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](https://arxiv.org/pdf/1805.04508.pdf)
+  * [Demographic Dialectal Variation in Social Media: A Case Study of African-American English](https://aclweb.org/anthology/D16-1120/)
   * [Feature-Wise Bias Amplification](https://arxiv.org/pdf/1812.08999.pdf)
   * [ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases](https://arxiv.org/pdf/1711.11443.pdf)
 
 
-* Adversarial Learning to Mitigate Discrimination
+
+* Bias in Representations
+  * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/pdf/1607.06520.pdf)
+  * [Gender Bias in Contextualized Word Embeddings](https://arxiv.org/pdf/1904.03310.pdf)
+  * [Assessing Social and Intersectional Biases in Contextualized Word Representations](http://papers.nips.cc/paper/9479-assessing-social-and-intersectional-biases-in-contextualized-word-representations.pdf)
+
+
+
+## Mitigation of Unfairness
+
+### Mitigation of Machine Learning Models
+* Adversarial Learning
   * [Data Decisions and Theoretical Implications when Adversarially Learning Fair Representations](https://arxiv.org/pdf/1707.00075.pdf)
   * [Achieving Fairness through Adversarial Learning: an Application to Recidivism Prediction](https://arxiv.org/pdf/1807.00199.pdf)
   * [Balanced Datasets Are Not Enough: Estimating and Mitigating Gender Bias in Deep Image Representations](https://arxiv.org/pdf/1811.08489.pdf)
@@ -68,12 +85,30 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
   * [Adversarial Removal of Demographic Attributes from Text Data](https://arxiv.org/pdf/1808.06640.pdf)
   * [Compositional Fairness Constraints for Graph Embeddings](http://proceedings.mlr.press/v97/bose19a/bose19a.pdf)
 
+* Calibration
+  * [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://arxiv.org/pdf/1707.09457.pdf)
+  * [Equality of Opportunity in Supervised Learning](https://arxiv.org/pdf/1610.02413.pdf)
 
-* Other Detection and Mitigation Papers
-  * [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](https://arxiv.org/pdf/1805.04508.pdf)
-  * [Reducing Gender Bias in Abusive Language Detection](https://arxiv.org/pdf/1808.07231.pdf)
-  * [Turning a Blind Eye: Explicit Removal of Biases and Variation from Deep Neural Network Embeddings](https://arxiv.org/pdf/1809.02169.pdf)
+
+
+* Incorporating Priors into Feature Attribution
+  * [Incorporating priors with feature attribution on text classification](https://www.aclweb.org/anthology/P19-1631.pdf)
+  * [Women Also Snowboard: Overcoming Bias in Captioning Models](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lisa_Anne_Hendricks_Women_also_Snowboard_ECCV_2018_paper.pdf)
+  * [Learning Credible Deep Neural Networks with Rationale Regularization](https://arxiv.org/pdf/1908.05601.pdf)
+
+
+* Data Collection
+  * [Why Is My Classifier Discriminatory?](https://papers.nips.cc/paper/7613-why-is-my-classifier-discriminatory.pdf)
+  * [Incorporating Dialectal Variability for Socially Equitable Language Identification](https://www.aclweb.org/anthology/P17-2009/)
   * [REPAIR: Removing Representation Bias by Dataset Resampling](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_REPAIR_Removing_Representation_Bias_by_Dataset_Resampling_CVPR_2019_paper.pdf)
+
+
+
+
+* Other Mitigation Methods
+  * [Mitigating Bias in Gender, Age and Ethnicity Classification: a Multi-Task Convolution Neural Network Approach](https://hal.inria.fr/hal-01892103/document)
+  * [InclusiveFaceNet: Improving Face Attribute Detection with Race and Gender Diversity](https://arxiv.org/pdf/1712.00193.pdf)
+  * [Reducing Gender Bias in Abusive Language Detection](https://arxiv.org/pdf/1808.07231.pdf)
   * [Fairness-aware Learning through Regularization Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6137441&tag=1)
   * [Fairness Constraints: Mechanisms for Fair Classification](https://arxiv.org/pdf/1507.05259.pdf)
   * [Penalizing Unfairness in Binary Classification](https://arxiv.org/pdf/1707.00044.pdf)
@@ -83,31 +118,16 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 
 
 
-  
-
-  
 
 
-### Predictive Accuracy Disparity
-
-* [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
-* [Deep Learning for Face Recognition: Pride or Prejudiced?](https://arxiv.org/pdf/1904.01219.pdf)
-* [Why Is My Classifier Discriminatory?](https://papers.nips.cc/paper/7613-why-is-my-classifier-discriminatory.pdf)
-* [InclusiveFaceNet: Improving Face Attribute Detection with Race and Gender Diversity
-](https://arxiv.org/pdf/1712.00193.pdf)
-* [Demographic Dialectal Variation in Social Media: A Case Study of African-American English](https://aclweb.org/anthology/D16-1120/)
-* [Incorporating Dialectal Variability for Socially Equitable Language Identification](https://www.aclweb.org/anthology/P17-2009/)
-* [Decoupled Classifiers for Group-Fair and Efficient Machine Learning](http://proceedings.mlr.press/v81/dwork18a.html)
-* [Mitigating Bias in Gender, Age and Ethnicity Classification: a Multi-Task Convolution Neural Network Approach](https://hal.inria.fr/hal-01892103/document)
+### Mitigation of Representations
+  * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/pdf/1607.06520.pdf)
+  * [Learning Gender-Neutral Word Embeddings](https://arxiv.org/pdf/1809.01496.pdf)
+  * [Flexibly Fair Representation Learning by Disentanglement](https://arxiv.org/pdf/1906.02589.pdf)
+  * [Turning a Blind Eye: Explicit Removal of Biases and Variation from Deep Neural Network Embeddings](https://arxiv.org/pdf/1809.02169.pdf)
 
 
 
-## Fairness of Representations
-
-* [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/pdf/1607.06520.pdf)
-* [Learning Gender-Neutral Word Embeddings](https://arxiv.org/pdf/1809.01496.pdf)
-* [Flexibly Fair Representation Learning by Disentanglement](https://arxiv.org/pdf/1906.02589.pdf)
-* [Gender Bias in Contextualized Word Embeddings](https://arxiv.org/pdf/1904.03310.pdf)
 
 
 
