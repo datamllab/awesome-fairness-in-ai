@@ -21,11 +21,11 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
   * [Bias in Representations](#bias-in-representations)
 * Mitigation of Unfairness 
   * [Mitigation of Machine Learning Models](#mitigation-of-machine-learning-models)
-    * [Adversarial Learning](#adversarial-learning)
-    * [Calibration](#calibration)
-    * [Incorporating Priors into Feature Attribution](#incorporating-priors-into-feature-attribution)
-    * [Data Collection](#data-collection)
-    * [Other Mitigation Methods](#calibration)
+    * [Adversarial Learning]
+    * [Calibration]
+    * [Incorporating Priors into Feature Attribution]
+    * [Data Collection]
+    * [Other Mitigation Methods]
   * [Mitigation of Representations](#mitigation-of-representations)
 * [Fairness Packages and Frameworks](#fairness-packages-and-frameworks)
 * [Conferences](#conferences)
@@ -57,7 +57,7 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 
 
 ## Demonstration of Bias Phemomenon in Various Applications
-* Bias in Machine Learning Models
+### Bias in Machine Learning Models
   * [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
   * [Deep Learning for Face Recognition: Pride or Prejudiced?](https://arxiv.org/pdf/1904.01219.pdf)
   * [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](https://arxiv.org/pdf/1805.04508.pdf)
@@ -67,7 +67,7 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 
 
 
-* Bias in Representations
+### Bias in Representations
   * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/pdf/1607.06520.pdf)
   * [Gender Bias in Contextualized Word Embeddings](https://arxiv.org/pdf/1904.03310.pdf)
   * [Assessing Social and Intersectional Biases in Contextualized Word Representations](http://papers.nips.cc/paper/9479-assessing-social-and-intersectional-biases-in-contextualized-word-representations.pdf)
