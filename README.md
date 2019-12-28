@@ -21,11 +21,11 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
   * [Bias in Representations](#bias-in-representations)
 * Mitigation of Unfairness 
   * [Mitigation of Machine Learning Models](#mitigation-of-machine-learning-models)
-    * [Adversarial Learning]
-    * [Calibration]
-    * [Incorporating Priors into Feature Attribution]
-    * [Data Collection]
-    * [Other Mitigation Methods]
+    * Adversarial Learning
+    * Calibration
+    * Incorporating Priors into Feature Attribution
+    * Data Collection
+    * Other Mitigation Methods
   * [Mitigation of Representations](#mitigation-of-representations)
 * [Fairness Packages and Frameworks](#fairness-packages-and-frameworks)
 * [Conferences](#conferences)
