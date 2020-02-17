@@ -42,6 +42,7 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 * [Ensuring fairness in machine learning to advance health equity](https://annals.org/aim/fullarticle/2717119)
 * [Mitigating Gender Bias in Natural Language Processing: Literature Review](https://www.aclweb.org/anthology/P19-1159.pdf)
 * [Fairness in Recommender Systems](http://www.ec.tuwien.ac.at/~dimitris/research/recsys-fairness.html)
+* [Implementations in Machine Ethics: A Survey](https://arxiv.org/pdf/2001.07573.pdf)
 
 
 
@@ -54,7 +55,7 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 * [Putting Fairness Principles into Practice: Challenges, Metrics, and Improvements](https://arxiv.org/pdf/1901.04562.pdf)
 * [Beyond Parity: Fairness Objectives for Collaborative Filtering](https://arxiv.org/pdf/1705.08804.pdf)
 * [50 Years of Test (Un)fairness: Lessons for Machine Learning](https://arxiv.org/pdf/1811.10104.pdf)
-
+* [Fairness Definitions Explained] (https://fairware.cs.umass.edu/papers/Verma.pdf)
 
 ## Demonstration of Bias Phemomenon in Various Applications
 ### Bias in Machine Learning Models
