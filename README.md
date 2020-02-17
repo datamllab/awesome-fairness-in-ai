@@ -55,7 +55,9 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 * [Putting Fairness Principles into Practice: Challenges, Metrics, and Improvements](https://arxiv.org/pdf/1901.04562.pdf)
 * [Beyond Parity: Fairness Objectives for Collaborative Filtering](https://arxiv.org/pdf/1705.08804.pdf)
 * [50 Years of Test (Un)fairness: Lessons for Machine Learning](https://arxiv.org/pdf/1811.10104.pdf)
-* [Fairness Definitions Explained] (https://fairware.cs.umass.edu/papers/Verma.pdf)
+* [Fairness Definitions Explained](https://fairware.cs.umass.edu/papers/Verma.pdf)
+* [Algorithmic Fairness](https://arxiv.org/abs/2001.09784)
+* [Bias in data‐driven artificial intelligence systems—An introductory survey](https://onlinelibrary.wiley.com/doi/full/10.1002/widm.1356)
 
 ## Demonstration of Bias Phemomenon in Various Applications
 ### Bias in Machine Learning Models
@@ -140,6 +142,8 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
   * [fairness: Benchmarking of fairness aware machine learning algorithms](https://github.com/algofairness/fairness-comparison)
 * [FairSight: Visual Analytics for Fairness in Decision Making](https://github.com/ayong8/FairSight)
 * [GD-IQ: Spellcheck for Bias (code not available)](https://vimeo.com/361818349)
+* [aequitas](https://github.com/dssg/aequitas)
+* [CERTIFAI: A Common Framework to Provide Explanations and Analyse the Fairness and Robustness of Black-box Models](https://www.aies-conference.com/2020/wp-content/papers/099.pdf)
 
 
 
