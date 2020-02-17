@@ -143,9 +143,9 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
   * [fairness: Benchmarking of fairness aware machine learning algorithms](https://github.com/algofairness/fairness-comparison)
 * [FairSight: Visual Analytics for Fairness in Decision Making](https://github.com/ayong8/FairSight)
 * [GD-IQ: Spellcheck for Bias (code not available)](https://vimeo.com/361818349)
-* [aequitas](https://github.com/dssg/aequitas)
+* [aequitas: Bias and Fairness Audit Toolkit](https://github.com/dssg/aequitas)
 * [CERTIFAI: A Common Framework to Provide Explanations and Analyse the Fairness and Robustness of Black-box Models](https://www.aies-conference.com/2020/wp-content/papers/099.pdf)
-* [ML-fairness-gym](https://github.com/google/ml-fairness-gym)
+* [ML-fairness-gym: Google's implementation based on OpenAI's Gym](https://github.com/google/ml-fairness-gym)
 * [fairness-indicators](https://github.com/tensorflow/fairness-indicators)
 
 
