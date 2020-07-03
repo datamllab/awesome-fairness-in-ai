@@ -97,6 +97,7 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 
 
 * Incorporating Priors into Feature Attribution
+  * [Mitigating Gender Bias in Captioning Systems](https://arxiv.org/abs/2006.08315)
   * [Incorporating priors with feature attribution on text classification](https://www.aclweb.org/anthology/P19-1631.pdf)
   * [Women Also Snowboard: Overcoming Bias in Captioning Models](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lisa_Anne_Hendricks_Women_also_Snowboard_ECCV_2018_paper.pdf)
   * [Learning Credible Deep Neural Networks with Rationale Regularization](https://arxiv.org/pdf/1908.05601.pdf)
@@ -149,7 +150,7 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 * [ML-fairness-gym: Google's implementation based on OpenAI's Gym](https://github.com/google/ml-fairness-gym)
 * [fairness-indicators: Tensorflow's Fairness Evaluation and Visualization Toolkit](https://github.com/tensorflow/fairness-indicators)
 * [scikit-fairness](https://github.com/koaning/scikit-fairness)
-
+* [Mitigating Gender Bias In Captioning System](https://github.com/CaptionGenderBias2020/Mitigating_Gender_Bias_In_Captioning_System_NIPS2020)
 
 
 ## Conferences
