@@ -14,26 +14,25 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 
 ## Table of Contents
 
-* [Review and General Papers](#review-and-general-papers)
-* [Measurements of Fairness](#measurements-of-fairness)
-* Demonstration of Bias Phemomenon in Various Applications
-  * [Bias in Machine Learning Models](#bias-in-machine-learning-models)
-  * [Bias in Representations](#bias-in-representations)
-* Mitigation of Unfairness 
-  * [Mitigation of Machine Learning Models](#mitigation-of-machine-learning-models)
-    * Adversarial Learning
-    * Calibration
-    * Incorporating Priors into Feature Attribution
-    * Data Collection
-    * Other Mitigation Methods
-  * [Mitigation of Representations](#mitigation-of-representations)
-* [Fairness Packages and Frameworks](#fairness-packages-and-frameworks)
-* [Conferences](#conferences)
-* [Other Fairness Relevant Interpretability Resources](#other-fairness-relevant-interpretability-resources)
+- [Awesome-Fairness-in-AI ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-fairness-in-ai-)
+  - [What is Fairness in AI?](#what-is-fairness-in-ai)
+  - [Table of Contents](#table-of-contents)
+  - [Review and General Papers](#review-and-general-papers)
+  - [Measurements of Fairness](#measurements-of-fairness)
+  - [Demonstration of Bias Phemomenon in Various Applications](#demonstration-of-bias-phemomenon-in-various-applications)
+    - [Bias in Machine Learning Models](#bias-in-machine-learning-models)
+    - [Bias in Representations](#bias-in-representations)
+  - [Mitigation of Unfairness](#mitigation-of-unfairness)
+    - [Mitigation of Machine Learning Models](#mitigation-of-machine-learning-models)
+    - [Mitigation of Representations](#mitigation-of-representations)
+  - [Fairness Packages and Frameworks](#fairness-packages-and-frameworks)
+  - [Conferences](#conferences)
+  - [Other Fairness Relevant Interpretability Resources](#other-fairness-relevant-interpretability-resources)
   
 
 ## Review and General Papers
 
+* [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/forum?id=OTnqQUEwPKu)
 * [Fairness in Deep Learning: A Computational Perspective](https://arxiv.org/pdf/1908.08843.pdf)
 * [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning](https://arxiv.org/pdf/1808.00023.pdf)
 * [Fairness and machine learning](https://fairmlbook.org/)
@@ -60,6 +59,7 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 * [Bias in data‐driven artificial intelligence systems—An introductory survey](https://onlinelibrary.wiley.com/doi/full/10.1002/widm.1356)
 * [Fairness is not Static: Deeper Understanding of Long Term Fairness via Simulation Studies](https://github.com/google/ml-fairness-gym/blob/master/papers/acm_fat_2020_fairness_is_not_static.pdf)
 * [Delayed Impact of Fair Machine Learning](http://proceedings.mlr.press/v80/liu18c/liu18c.pdf)
+* [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/forum?id=OTnqQUEwPKu)
 
 ## Demonstration of Bias Phemomenon in Various Applications
 ### Bias in Machine Learning Models
@@ -69,14 +69,14 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
   * [Demographic Dialectal Variation in Social Media: A Case Study of African-American English](https://aclweb.org/anthology/D16-1120/)
   * [Feature-Wise Bias Amplification](https://arxiv.org/pdf/1812.08999.pdf)
   * [ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases](https://arxiv.org/pdf/1711.11443.pdf)
-
+  * [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/forum?id=OTnqQUEwPKu)
 
 
 ### Bias in Representations
   * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/pdf/1607.06520.pdf)
   * [Gender Bias in Contextualized Word Embeddings](https://arxiv.org/pdf/1904.03310.pdf)
   * [Assessing Social and Intersectional Biases in Contextualized Word Representations](http://papers.nips.cc/paper/9479-assessing-social-and-intersectional-biases-in-contextualized-word-representations.pdf)
-
+  * [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/forum?id=OTnqQUEwPKu)
 
 
 ## Mitigation of Unfairness
@@ -89,6 +89,8 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
   * [Mitigating Unwanted Biases with Adversarial Learning](https://arxiv.org/pdf/1801.07593.pdf)
   * [Adversarial Removal of Demographic Attributes from Text Data](https://arxiv.org/pdf/1808.06640.pdf)
   * [Compositional Fairness Constraints for Graph Embeddings](http://proceedings.mlr.press/v97/bose19a/bose19a.pdf)
+  * [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/forum?id=OTnqQUEwPKu)
+
 
 * Calibration
   * [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://arxiv.org/pdf/1707.09457.pdf)
@@ -107,7 +109,7 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
   * [Why Is My Classifier Discriminatory?](https://papers.nips.cc/paper/7613-why-is-my-classifier-discriminatory.pdf)
   * [Incorporating Dialectal Variability for Socially Equitable Language Identification](https://www.aclweb.org/anthology/P17-2009/)
   * [REPAIR: Removing Representation Bias by Dataset Resampling](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_REPAIR_Removing_Representation_Bias_by_Dataset_Resampling_CVPR_2019_paper.pdf)
-
+  * [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/forum?id=OTnqQUEwPKu)
 
 
 
@@ -131,7 +133,7 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
   * [Learning Gender-Neutral Word Embeddings](https://arxiv.org/pdf/1809.01496.pdf)
   * [Flexibly Fair Representation Learning by Disentanglement](https://arxiv.org/pdf/1906.02589.pdf)
   * [Turning a Blind Eye: Explicit Removal of Biases and Variation from Deep Neural Network Embeddings](https://arxiv.org/pdf/1809.02169.pdf)
-
+  * [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/forum?id=OTnqQUEwPKu)
 
 
 
@@ -151,7 +153,7 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 * [fairness-indicators: Tensorflow's Fairness Evaluation and Visualization Toolkit](https://github.com/tensorflow/fairness-indicators)
 * [scikit-fairness](https://github.com/koaning/scikit-fairness)
 * [Mitigating Gender Bias In Captioning System](https://github.com/CaptionGenderBias2020/Mitigating_Gender_Bias_In_Captioning_System_NIPS2020)
-
+* [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://github.com/charan223/FairDeepLearning)
 
 ## Conferences
 
@@ -167,7 +169,7 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 * [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf)
 * [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf)
 * [Methods for Interpreting and Understanding Deep Neural Networks](https://arxiv.org/pdf/1706.07979.pdf)
-
+* [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/forum?id=OTnqQUEwPKu)
 
 
 
