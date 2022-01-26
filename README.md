@@ -149,7 +149,6 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
 * [CERTIFAI: A Common Framework to Provide Explanations and Analyse the Fairness and Robustness of Black-box Models](https://www.aies-conference.com/2020/wp-content/papers/099.pdf)
 * [ML-fairness-gym: Google's implementation based on OpenAI's Gym](https://github.com/google/ml-fairness-gym)
 * [fairness-indicators: Tensorflow's Fairness Evaluation and Visualization Toolkit](https://github.com/tensorflow/fairness-indicators)
-* [scikit-fairness](https://github.com/koaning/scikit-fairness)
 * [Mitigating Gender Bias In Captioning System](https://github.com/CaptionGenderBias2020/Mitigating_Gender_Bias_In_Captioning_System_NIPS2020)
 
 
